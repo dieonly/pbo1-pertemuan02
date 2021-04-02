@@ -7,5 +7,6 @@ public class InputOutput{
 		String nama;
 		System.out.print("Masukkan nama anda: ");
 		nama = Scanner.nextLine();
+		System.out.println("Hai, "+nama);
 	}
 }
